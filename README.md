@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ala Mohamed Abid</h1>
-<h3 align="center">A passionate backend developer from Libya</h3>
+<h3 align="center">I'm backend developer from Libya</h3>
 
 - 🌱 I’m currently learning **reactjs,germany language**
 
