@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **reactjs,germany language**
 
-- 💬 Ask me about **php,laravel,databease,git,lunix**
+- 💬 Ask me about **php,laravel,databease,git .. **
 
 - 📫 How to reach me **ala96ala96@gmail.com**
 
